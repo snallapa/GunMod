@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/snallapa/GunMod/releases",
+  "promos": {
+    "1.16.1-recommended": "1.0",
+    "1.16.1-latest": "1.0"
+  },
+  "1.16.1": {
+    "1.0" : "First release of guns"
+  }
+}

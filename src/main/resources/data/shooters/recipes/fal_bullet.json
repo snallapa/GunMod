@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "X"
+  ],
+  "key":
+  {
+    "X":
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    "#":
+    {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result":
+  {
+    "item": "shooters:fal_bullet",
+    "count": 32
+  }
+}
