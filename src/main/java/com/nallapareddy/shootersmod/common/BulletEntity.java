@@ -1,6 +1,6 @@
-package com.example.examplemod.common;
+package com.nallapareddy.shootersmod.common;
 
-import com.example.examplemod.ShootersMod;
+import com.nallapareddy.shootersmod.ShootersMod;
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.projectile.AbstractArrowEntity;

@@ -1,13 +1,12 @@
-package com.example.examplemod.common;
+package com.nallapareddy.shootersmod.common;
 
-import com.example.examplemod.ShootersMod;
+import com.nallapareddy.shootersmod.ShootersMod;
 import net.minecraft.enchantment.EnchantmentHelper;
 import net.minecraft.enchantment.Enchantments;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.projectile.AbstractArrowEntity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.Items;
 import net.minecraft.item.ShootableItem;
 import net.minecraft.stats.Stats;
 import net.minecraft.util.ActionResult;

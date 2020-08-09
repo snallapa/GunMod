@@ -1,4 +1,4 @@
-package com.example.examplemod.common;
+package com.nallapareddy.shootersmod.common;
 
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.projectile.AbstractArrowEntity;
